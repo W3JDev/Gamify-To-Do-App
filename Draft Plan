@@ -1,0 +1,52 @@
+ISSUES TO DO
+
+Key Features
+Common Features of Gamified Apps and To-Do List Calendars:
+
+Task creation and management
+Progress tracking and streaks
+Rewards and badges
+Calendar view for tasks and habits
+Reminders and notifications
+AI-powered suggestions based on user behavior
+Features to Adapt from Current Project:
+
+Use the existing AI integration for habit suggestions
+Leverage the existing user authentication and database setup
+
+
+Step 2: Design the App
+
+Wireframes for App Layout:
+
+Home Screen: Overview of tasks and habits, progress summary
+To-Do List Screen: List of tasks with options to add, edit, delete, and mark as complete
+Habit Tracker Screen: List of habits with daily progress tracking, streaks, and rewards
+Calendar Screen: Monthly view with tasks and habits integrated, ability to set reminders
+Gamification Elements:
+
+Streaks for completing tasks and habits consistently
+Points system for completing tasks and maintaining streaks
+Badges for achieving milestones in task and habit completion
+AI-Powered Habit Suggestions:
+
+Analyze user goals and past behavior to suggest new habits
+Provide motivational tips and recommendations
+
+
+Gather feedback on the wireframes and features from potential users.
+Refine the design based on the feedback collected.
+
+Step 1: Create Detailed Wireframes
+Research Existing Habit Tracker Apps: Gather ideas and best practices from popular habit tracker apps.
+Sketch Initial Wireframes: Visualize the core features: daily habit tracking, streaks, rewards, and AI-powered habit suggestions.
+Use a Wireframing Tool: Create detailed wireframes based on the sketches for a clear and professional presentation.
+
+Step 2: Gather User Feedback
+Prepare a Survey: Develop a questionnaire to gather feedback on the wireframes.
+Share Wireframes and Survey: Share with a group of target users (friends, family, or an online community interested in habit tracking).
+Analyze Feedback: Identify common themes or suggestions for improvements.
+
+Next Steps
+Iterate on the wireframes based on user feedback.
+Plan the development phases based on the final wireframes and gathered feedback.
