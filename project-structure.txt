@@ -1,0 +1,21 @@
+gamify-todo-app/
+├── backend/
+│   ├── src/
+│   │   ├── controllers/
+│   │   ├── models/
+│   │   ├── routes/
+│   │   └── app.js
+│   ├── package.json
+│   └── .env.example
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── context/
+│   │   ├── services/
+│   │   └── App.js
+│   ├── package.json
+│   └── .env.example
+├── README.md
+└── .gitignore
